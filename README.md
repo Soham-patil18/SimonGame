@@ -5,6 +5,10 @@
 A fun and interactive **Simon Says Game** built using **HTML**, **CSS**, and **JavaScript**.  
 Test your memory and concentration by following the color sequence — can you reach the highest level?
 
+🌐 Live Demo
+<br>
+👉 [Visit the Live Site]( https://soham-patil18.github.io/SimonGame/)
+
 
 ## 🧩 How to Play
 
@@ -79,6 +83,7 @@ Here are a few previews of the project:
 **Soham patil**   
 
 - 🌍 [GitHub Profile](https://github.com/Soham-patil18)  
+- 🔗 [Live Project](https://soham-patil18.github.io/SimonGame/)
 - 📧 Email: sohampatil49690@gmail.com<br>
 
 
