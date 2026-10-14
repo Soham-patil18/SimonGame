@@ -20,7 +20,7 @@ Test your memory and concentration by following the color sequence — can you r
 
 
 
-## 🧱 Project Structure
+## 🧱 Project Structure 
 
 SimonsGame/
 ├── index.html # Main HTML file
